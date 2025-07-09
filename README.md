@@ -56,7 +56,7 @@ Tengo especial interés en el desarrollo **backend con Java y Spring Boot**, as�
 
 ## 📫 ¿Dónde encontrarme?
 
-- 📧 Email: [javiergl.dev@gmail.com]
+- 📧 Email: javiergl.dev@gmail.com
 - 🔗 LinkedIn: [https://www.linkedin.com/in/javier-gomez-lopez-desarrollador](https://www.linkedin.com/in/javier-gomez-lopez-desarrollador)
 
 ---
